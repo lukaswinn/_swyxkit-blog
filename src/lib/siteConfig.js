@@ -8,8 +8,7 @@ export const DEFAULT_OG_IMAGE =
 export const MY_TWITTER_HANDLE = 'lukaswinn';
 export const POST_CATEGORIES = ['Blog']; // Other categories you can consider adding: Talks, Tutorials, Snippets, Podcasts, Notes...
 export const GH_PUBLISHED_TAGS = ['Published'];
-export const GH_TESTING_TAGS = ['Draft']
-]
+export const GH_TESTING_TAGS = ['Draft'];
 
 // auto generated variables
 export const REPO_URL = 'https://github.com/' + GH_USER_REPO;
