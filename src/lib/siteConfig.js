@@ -1,7 +1,7 @@
-export const SITE_URL = 'https://storied-sherbet-5246af.netlify.app';
+export const SITE_URL = 'https://swyxkit.netlify.app';
 export const APPROVED_POSTERS_GH_USERNAME = ['lukaswinn'];
-export const GH_USER_REPO = 'lukaswinn/_swyxkit-blog'; // used for pulling github issues and offering comments
-export const SITE_TITLE = 'LukasWinn';
+export const GH_USER_REPO = 'sw-yx/swyxkit'; // used for pulling github issues and offering comments
+export const SITE_TITLE = 'SwyxKit';
 export const SITE_DESCRIPTION = "swyx's default SvelteKit + Tailwind starter";
 export const DEFAULT_OG_IMAGE =
 	'https://user-images.githubusercontent.com/6764957/147861359-3ad9438f-41d1-47c8-aa05-95c7d18497f0.png';
