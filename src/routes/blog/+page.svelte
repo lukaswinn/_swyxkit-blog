@@ -7,7 +7,7 @@
 	import { SITE_TITLE, POST_CATEGORIES } from '$lib/siteConfig';
 
 	import IndexCard from '../../components/IndexCard.svelte';
-	import MostPopular from './MostPopular.svelte';
+	// import MostPopular from './MostPopular.svelte';
 
 	/** @type {import('./$types').PageData} */
 	export let data;
