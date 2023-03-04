@@ -34,13 +34,14 @@
 >
 	<div class="flex flex-col-reverse items-start sm:flex-row">
 		<div class="flex flex-col pr-8">
+			
 			<h1 class="mb-3 text-3xl font-bold tracking-tight text-black dark:text-yelllow-500 md:text-5xl">
 				Lukas Winn
 			</h1>
 			<h2 class="mb-4 text-gray-700 dark:text-gray-200">
 				My little Corner of the Internet to share my knowledge and opinions on tech related content with a focus on VMware, Coding and other tech areas.
-				Currently working on <span class="font-semibold"
-				>Learning about Sveltekit and how I can apply this to my blog...</span>
+				<br /> Currently working on: <span class="font-semibold">
+				Learning about Sveltekit and how I can apply this to my blog...</span>
 			</h2>
 		</div>
 		<!-- <div
