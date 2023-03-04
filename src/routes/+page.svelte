@@ -30,7 +30,7 @@
 </svelte:head>
 
 <div
-	class="mx-auto flex max-w-4xl flex-col items-start justify-center px-4 pb-16 dark:border-gray-700 sm:px-8"
+	class="mx-auto flex max-w-4xl flex-col items-start justify-center border-zinc-200 px-4 pb-16 dark:border-zinc-700 sm:px-8"
 >
 	<div class="flex flex-col-reverse items-start sm:flex-row">
 		<div class="flex flex-col pr-8">
