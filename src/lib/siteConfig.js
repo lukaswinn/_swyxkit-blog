@@ -1,6 +1,6 @@
 export const SITE_URL = 'https://swyxkit.netlify.app';
 export const APPROVED_POSTERS_GH_USERNAME = ['lukaswinn'];
-export const GH_USER_REPO = 'sw-yx/swyxkit'; // used for pulling github issues and offering comments
+export const GH_USER_REPO = 'lukaswinn/_swyxkit-blog'; // used for pulling github issues and offering comments
 export const SITE_TITLE = 'LukasWinn';
 export const SITE_DESCRIPTION = "Lukas Winn's Corner of The Internet";
 export const DEFAULT_OG_IMAGE =
