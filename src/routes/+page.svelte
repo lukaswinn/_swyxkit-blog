@@ -1,5 +1,4 @@
-<script>
-	import Newsletter from '../components/Newsletter.svelte';
+<script context="module">
 	import FeatureCard from '../components/FeatureCard.svelte';
 	import LatestPosts from '../components/LatestPosts.svelte';
 	import {
@@ -10,13 +9,7 @@
 		DEFAULT_OG_IMAGE,
 		MY_TWITTER_HANDLE
 	} from '$lib/siteConfig';
-
-
-	/** @type {import('./$types').PageData} */
-	export let data;
-	// technically this is a slighlty different type because doesnt have 'content' but we'll let it slide
-	/** @type {import('$lib/types').ContentItem[]} */
-	$: items = data.items;
+	export const prerender = true; // Since index page is most common page, we should prerender this to improve load time.
 </script>
 
 <svelte:head>
@@ -83,7 +76,6 @@
 		</div>
 	</section>
 
-	<LatestPosts {items} />
+	<!-- <LatestPosts {items} /> -->
 
-	<Newsletter />
 </div>
