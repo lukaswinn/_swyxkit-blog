@@ -30,7 +30,7 @@
 </svelte:head>
 
 <div
-	class="flex flex-col items-start justify-center max-w-2xl px-4 pb-16 mx-auto border-gray-200 dark:border-gray-700 sm:px-8"
+	class="mx-auto flex max-w-6xl flex-col items-start justify-center px-4 pb-16 dark:border-gray-700 sm:px-8"
 >
 	<div class="flex flex-col-reverse items-start sm:flex-row">
 		<div class="flex flex-col pr-8">
@@ -40,6 +40,7 @@
 			</h1>
 			<h2 class="mb-4 text-gray-700 dark:text-gray-200">
 				My little Corner of the Internet to share my knowledge and opinions on tech related content with a focus on VMware, Coding and other tech areas.
+				<br />
 				<br /> Currently working on: <span class="font-semibold">
 				Learning about Sveltekit and how I can apply this to my blog...</span>
 			</h2>
