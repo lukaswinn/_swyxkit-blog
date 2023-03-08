@@ -30,12 +30,12 @@
 </svelte:head>
 
 <div
-	class="mx-auto flex max-w-4xl flex-col items-start justify-center border-zinc-200 px-4 pb-16 dark:border-zinc-700 sm:px-8"
+	class="mx-auto flex max-w-4xl flex-col items-start justify-center border-zinc-200 px-4 pb-16 dark:border-yellow-700 sm:px-8"
 >
 	<div class="flex flex-col-reverse items-start sm:flex-row">
 		<div class="flex flex-col pr-8">
 			
-			<h1 class="mb-3 text-3xl font-bold tracking-tight text-yelllow-500 md:text-5xl">
+			<h1 class="mb-3 text-3xl font-bold tracking-tight text-black dark:text-zinc-500 md:text-5xl">
 				Lukas Winn
 			</h1>
 			<h2 class="mb-4 text-gray-700 dark:text-gray-200">
