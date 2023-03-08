@@ -43,7 +43,6 @@
 				<br />
 				<br /> Currently working on: <span class="font-semibold">
 				Learning about Sveltekit and how I can apply this to my blog...</span>
-			</h2>
 			<br />
 			<br />
 		</div>
