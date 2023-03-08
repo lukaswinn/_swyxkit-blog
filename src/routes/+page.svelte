@@ -62,7 +62,7 @@
 				href="/moving-to-a-github-cms"
 				stringData="Jan 2022"
 			/>
-			<FeatureCard title="HTML Ipsum demo" href="/moo" stringData="Jan 2022" />
+			<FeatureCard title="Test Card 3" href="/test3" stringData="Mar 2023" />
 		</div>
 	</section>
 
